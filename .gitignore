@@ -1,0 +1,15 @@
+# Ignorar cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar banco de dados local (ele é criado automaticamente pelo sistema)
+*.db
+nexus.db
+
+# Ignorar ambientes virtuais (se você usou venv)
+venv/
+.env
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db

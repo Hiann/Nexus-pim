@@ -1,0 +1,5 @@
+Passo a passo para iniciar os dois terminais
+
+Em um terminal vc vai colocar o comando :python main.py ou uvicorn main:app --reload
+
+No outro temrinal vc vai colocar o comando : streamlit run frontend.py
