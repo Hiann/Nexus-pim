@@ -132,8 +132,7 @@ PIM_LITE/
 📫 Autor
 <div align="center">
 
-Hiann Alexander Mendes de Oliveira
-Desenvolvedor Backend & Especialista em Soluções Enterprise
+**Hiann Alexander Mendes de Oliveira** *Desenvolvedor Backend & Entusiasta de IA*
 
 <a href="https://www.linkedin.com/in/hiann-alexander" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
